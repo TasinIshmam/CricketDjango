@@ -1,6 +1,8 @@
 ## CricketDjango
 #### This project is **[Deprecated]** due to this API: https://www.cricbuzz.com/match-api/livematches.json being deprecated.
 
+Project for Database Sessional Course, done by Tasin Ishmam and Ashiqur Rahman. 
+
 ### Here's a Demo of the data it collected:
 
 #### Players Table
